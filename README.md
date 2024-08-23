@@ -28,8 +28,8 @@
 <!--AboutMe-->
 ## <h3 align="center">👩‍💻  ABOUT ME</h3>
 <p align="center">
-  👨‍💻I am an enthusiastic developer with a strong focus on Java development, web applications, machine learning, and deep learning.<br>
-  - 👨‍🎓 I’m an <b> AI&DS Student </b> <br>
+  👨‍🎓 I’m an <b> AI&DS Student </b> <br>
+  I am an enthusiastic developer👨‍💻 with a strong focus on Java development, web applications, machine learning, and deep learning.<br>
   - 📚I'm currently learning about LLMs and API-based services<br>
   - ⚡ In my free time I'm listening to 🎵Music and 🖼️Drawing
 </p>
